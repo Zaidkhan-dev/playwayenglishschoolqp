@@ -1,0 +1,5 @@
+{
+  "name": "Question Paper Generator",
+  "description": "A web application for teachers to create, preview, and generate professional question papers in PDF format for Playway English School.",
+  "requestFramePermissions": []
+}
